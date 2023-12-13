@@ -5,3 +5,4 @@ standing strong
 on this their chosen battlefield
 
 1) add some dummy text from "feature" branch
+2) add some other dummy text from "feature" branch
